@@ -1,6 +1,6 @@
 # Student Depression Analysis & Prediction 
 
-Hello! This project analyzes **student depression data** and applies **machine learning** techniques to understand and predict depression-related outcomes.  
+Hello!✨This project analyzes **student depression data** and applies **machine learning** techniques to understand and predict depression-related outcomes.  
 
 It demonstrates a complete ML workflow, including:
 - Data preprocessing
